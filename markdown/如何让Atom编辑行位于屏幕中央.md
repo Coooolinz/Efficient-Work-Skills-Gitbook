@@ -4,4 +4,4 @@
 2. 勾选Scroll Past End
 ![](assets/markdown-img-paste-20170802003009994.png)
 
-Tags：Markdown，编辑行， Atom
+Tags：Markdown, 编辑行, Atom

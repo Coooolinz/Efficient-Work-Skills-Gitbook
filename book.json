@@ -1,3 +1,11 @@
 {
-  "plugins": ["-Search"]
+    "plugins": ["algolia"],
+    "pluginsConfig": {
+        "algolia": {
+            "index": "efficient-work-skills-gitbook",
+            "applicationID": "473TXAEWDQ",
+            "publicKey": "2e330fd50c3949e65624a80d5bb10d7a",
+            "freeAccount": "true"
+        }
+    }
 }

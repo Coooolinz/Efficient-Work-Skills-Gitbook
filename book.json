@@ -1,12 +1,5 @@
 {
-    "plugins": [
-      "algolia",
-      "tags",
-      "toggle-chapters",
-      "theme-faq",
-      "-fontsettings",
-      "-sharing"
-    ],
+    "plugins": ["algolia","tags"],
     "pluginsConfig": {
         "algolia": {
             "index": "efficient-work-skills-gitbook",

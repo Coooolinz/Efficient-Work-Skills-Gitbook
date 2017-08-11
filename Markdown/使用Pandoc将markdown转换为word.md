@@ -1,4 +1,4 @@
-# 使用Pandoc将Markdown转换为word
+# 使用Pandoc将Markdown转换为Word格式
 
 ## 背景
 使用Word编写日常文档通常费时费力，主要是因为需要频繁的键鼠切换操作+修正排版(强迫症)
@@ -7,6 +7,7 @@
 ## 解决方案-Pandoc
 ### 简介
 Pandoc是一套开源的文稿格式转换程序，支持很多种文稿的格式互转
+且可以在Word里保持Markdown文稿的结构(效果实测很不错)
 
 ### 使用步骤
 1. 安装Pandoc

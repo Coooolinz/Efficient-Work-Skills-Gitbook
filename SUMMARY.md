@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Markdown](markdown.md)
+* Markdown
   * [如何让Atom编辑行位于屏幕中央](Markdown/如何让Atom编辑行位于屏幕中央.md)
   * [使用Pandoc将Markdown转换为Word](Markdown/使用Pandoc将markdown转换为word.md)
   * [Atom做Markdown编辑器导出Html文件的图片使用相对路径](Markdown/Atom做Markdown编辑器导出Html文件的图片如何使用相对路径.md)

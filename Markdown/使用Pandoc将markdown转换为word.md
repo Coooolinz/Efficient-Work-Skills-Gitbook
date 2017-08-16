@@ -10,6 +10,7 @@ Pandoc是一套开源的文稿格式转换程序，支持很多种文稿的格�
 且可以在Word里保持Markdown文稿的结构(效果实测很不错)
 
 ### 使用步骤
+#### 命令行方式
 1. 安装Pandoc
   [Github](https://github.com/jgm/pandoc/releases)
   下载Windows安装包并安装
@@ -27,3 +28,7 @@ pandoc 文档.md -o 要输出的名称.docx
 -o表示代表输出的意思
 
 Tags: Markdown转Word, Markdown输出
+
+
+#### 插件方式
+再安装Pandoc之后，下载[Writage](http://www.writage.com/#download)插件，即可直接在Word中打开markdown文档(调用pandoc实现)。

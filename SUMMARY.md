@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* 产品技能
+  * [如何让Axure中导出的HTML文档无需插件浏览](产品技能/如何让Axure中导出的HTML文档无需插件浏览.md)
 * Markdown
   * [如何让Atom编辑行位于屏幕中央](Markdown/如何让Atom编辑行位于屏幕中央.md)
   * [使用Pandoc将Markdown转换为Word](Markdown/使用Pandoc将markdown转换为word.md)
